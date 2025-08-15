@@ -26,36 +26,38 @@ To apply my knowledge in cybersecurity, networking, and cloud platforms toward a
 
 ---
 
-## 🛠️ Tools
+## Tools
 
-### Network
+### 🛰️ Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+### 🖥️ Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+### 📊 SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### 💻 Scripting & Querying
+<div>
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-KQL-1F1F1F?&style=for-the-badge&logo=Azure-Sentinel&logoColor=white" />
 </div>
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 <div>
-    <a href="https://www.coursera.org/account/accomplishments/specialization/R95KKTRHJMC2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof">
-        <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-    </a>
+    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_IT_Support_Professional_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+</div>
     
     <a href="https://www.coursera.org/account/accomplishments/professional-cert/NHR7K55BXTM7?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof">
         <img src="https://img.shields.io/badge/-Google_IT_Support_Professional_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
